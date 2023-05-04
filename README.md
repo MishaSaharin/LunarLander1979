@@ -1,6 +1,5 @@
 # LunarLander1979
 
-LunarLander1979
 
 https://javarush.com/projects/apps/354932
 
